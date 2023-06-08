@@ -2,6 +2,6 @@
 
 
 
-vagrant up
-vagrant halt
-vagrant destroy vm1
+* vagrant up
+* vagrant halt
+* vagrant destroy vm1
